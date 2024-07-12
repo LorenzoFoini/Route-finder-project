@@ -1,0 +1,139 @@
+add-station 143 10 33 26 27 32 29 25 25 25 24 32
+add-station 110 7 17 17 13 16 16 14 15
+add-station 478 7 20 22 17 21 16 16 17
+add-station 137 8 27 23 20 21 24 24 22 27
+add-station 160 0
+add-car 160 37
+add-car 160 45
+add-car 160 44
+add-car 160 48
+add-car 160 42
+add-car 160 45
+add-car 160 41
+add-car 160 37
+add-car 160 49
+add-car 160 45
+add-car 160 48
+add-station 3 0
+add-car 3 10
+add-car 3 8
+add-car 3 8
+add-car 3 8
+add-car 3 9
+add-car 3 10
+add-car 3 7
+add-car 3 7
+add-station 391 0
+add-car 391 26
+add-car 391 33
+add-car 391 34
+add-car 391 25
+add-car 391 31
+add-car 391 27
+add-station 179 9 56 58 61 66 50 65 61 58 49
+add-station 73 11 12 11 12 15 15 13 13 15 14 11 11
+add-station 31 0
+add-car 31 12
+add-car 31 13
+add-car 31 10
+add-car 31 10
+add-car 31 11
+add-car 31 11
+add-car 31 12
+add-car 31 12
+add-car 31 11
+add-car 31 12
+add-car 31 10
+add-station 355 10 46 44 42 39 42 37 39 43 43 49
+add-station 103 8 13 12 16 12 15 12 14 16
+add-station 350 0
+add-car 350 47
+add-car 350 45
+add-car 350 48
+add-car 350 39
+add-car 350 38
+add-car 350 51
+add-car 350 42
+add-car 350 48
+add-car 350 44
+add-car 350 42
+add-station 360 10 45 45 42 39 34 43 37 45 42 36
+add-station 131 11 19 17 15 15 15 15 16 20 19 18 16
+add-station 350 10 269 289 488 379 170 18 85 438 170 91
+add-station 477 11 23 21 23 20 20 17 23 19 17 17 21
+add-station 166 9 51 51 46 48 50 52 55 47 43
+add-station 289 6 88 73 81 73 66 86
+add-car 165 10
+add-station 21 11 10 9 11 10 10 11 9 10 10 10 11
+add-station 371 0
+add-car 371 32
+add-car 371 36
+add-car 371 38
+add-car 371 41
+add-car 371 39
+add-car 371 34
+add-station 415 6 29 29 36 29 27 29
+add-station 177 8 55 53 63 63 60 55 48 49
+add-station 325 0
+add-car 325 54
+add-car 325 55
+add-car 325 52
+add-car 325 53
+add-car 325 54
+add-car 325 54
+add-car 325 48
+add-car 325 62
+add-car 325 64
+add-car 325 59
+plan-route 415 21
+add-station 471 10 21 21 24 22 19 19 25 24 19 20
+add-station 8 6 10 11 11 11 11 8
+add-station 422 6 36 30 28 31 28 30
+add-station 295 10 84 84 85 75 83 79 70 70 62 70
+add-station 290 0
+add-car 290 84
+add-car 290 73
+add-car 290 83
+add-car 290 83
+add-car 290 74
+add-car 290 74
+add-car 290 79
+add-car 290 84
+add-car 290 72
+add-car 290 67
+add-car 290 75
+add-car 290 84
+add-station 281 11 83 91 90 77 79 91 82 95 72 87 76
+add-station 67 9 13 11 15 13 14 13 13 11 14
+add-station 492 11 14 13 11 14 11 13 12 11 12 12 13
+add-station 300 9 78 81 80 81 80 64 63 71 64
+add-station 296 10 72 72 76 73 70 77 83 83 82 77
+add-station 453 6 31 23 25 29 24 30
+add-station 0 10 10 7 8 8 8 7 9 9 7 7
+add-station 356 7 42 44 42 47 46 38 41
+add-station 332 12 48 50 53 51 59 53 47 58 49 46 45 48
+add-station 290 7 146 397 451 417 258 423 73
+add-station 209 8 74 79 79 85 84 83 78 66
+add-station 132 0
+add-car 132 17
+add-car 132 16
+add-car 132 17
+add-car 132 21
+add-car 132 17
+add-car 132 18
+add-car 132 18
+add-car 132 21
+add-station 217 11 70 93 72 69 71 90 78 87 80 74 77
+add-station 241 7 81 79 98 99 90 81 90
+add-station 251 11 93 98 88 83 83 108 91 106 90 107 89
+add-station 107 10 14 15 14 14 17 15 17 13 17 13
+add-station 169 12 47 47 50 47 53 47 50 49 58 49 52 57
+add-car 31 36
+add-car 67 36
+add-car 73 30
+add-car 8 13
+add-car 103 30
+add-car 131 21
+add-car 21 13
+add-car 110 21
+plan-route 471 67

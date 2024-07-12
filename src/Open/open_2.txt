@@ -1,0 +1,40 @@
+add-station 8 10 11 10 13 10 12 10 10 13 12 11
+add-station 59 7 54 52 53 55 57 54 51
+add-station 76 0
+add-car 76 75
+add-car 76 61
+add-car 76 78
+add-car 76 59
+add-car 76 62
+add-car 76 68
+add-car 76 68
+add-car 76 79
+add-car 76 70
+add-car 76 74
+add-station 109 9 80 63 74 61 64 71 63 69 67
+add-station 120 0
+add-car 120 46
+add-car 120 61
+add-car 120 49
+add-car 120 47
+add-car 120 46
+add-car 120 51
+add-car 120 59
+add-car 120 51
+add-car 120 55
+add-station 178 9 16 16 14 18 17 19 17 14 16
+add-station 56 8 48 46 46 40 51 45 44 49
+plan-route 8 178
+add-station 196 9 4 3 5 3 5 4 5 4 5
+add-station 13 7 14 18 14 17 13 17 13
+add-station 134 6 40 31 35 41 40 34
+add-station 180 7 15 17 14 16 14 15 16
+add-station 108 6 79 82 77 71 68 67
+add-station 35 6 30 36 33 26 36 26
+add-station 126 10 49 52 43 42 44 51 48 48 48 52
+add-station 91 6 89 89 88 88 70 91
+add-car 13 22
+add-car 134 44
+add-car 196 16
+add-car 178 44
+plan-route 35 196

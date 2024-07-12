@@ -1,0 +1,91 @@
+add-station 288 7 2 3 2 3 3 2 3
+add-station 172 10 10 8 8 8 8 10 10 9 8 10
+add-station 61 8 19 25 19 19 24 18 25 20
+add-station 129 0
+add-car 129 17
+add-car 129 20
+add-car 129 21
+add-car 129 22
+add-car 129 16
+add-car 129 19
+add-car 129 19
+add-station 223 11 3 3 3 5 3 4 3 5 3 4 4
+add-station 359 8 10 11 10 8 8 8 9 8
+add-station 66 10 21 23 20 24 23 22 25 19 24 25
+add-station 258 6 4 4 3 3 3 4
+add-station 186 9 8 7 8 6 7 8 8 7 8
+add-station 282 11 4 3 4 3 3 3 3 4 3 3 3
+add-station 406 8 1 1 1 1 1 1 1 0
+add-station 389 11 5 6 5 6 5 6 5 5 6 5 5
+add-station 358 7 9 10 10 9 11 10 9
+add-station 8 6 13 13 11 12 13 11
+add-station 372 10 8 9 10 8 10 7 7 10 8 7
+plan-route 372 8
+add-station 31 9 17 17 18 20 20 18 19 20 19
+add-station 42 9 17 21 21 20 21 20 21 19 18
+add-station 351 11 10 8 8 11 9 11 9 9 9 10 11
+add-station 403 11 1 1 2 1 2 1 2 1 2 1 1
+add-station 367 6 10 8 8 8 9 9
+add-station 404 8 1 1 1 1 1 1 1 1
+add-station 261 8 3 4 3 3 3 4 4 4
+add-station 336 8 10 7 8 9 8 8 9 10
+add-station 136 7 16 17 19 16 17 19 16
+add-station 101 0
+add-car 101 29
+add-car 101 30
+add-car 101 23
+add-car 101 22
+add-car 101 25
+add-car 101 24
+add-car 101 27
+add-car 101 29
+add-car 101 23
+add-car 101 24
+add-station 119 6 23 19 23 23 23 25
+add-station 27 8 17 15 15 14 14 17 17 14
+add-station 87 7 21 26 22 25 22 28 22
+add-station 241 7 4 3 4 4 4 4 4
+add-station 184 8 6 7 7 9 8 7 7 8
+add-station 1 0
+add-car 1 12
+add-car 1 14
+add-car 1 11
+add-car 1 12
+add-car 1 10
+add-car 1 12
+add-car 1 14
+add-car 1 12
+add-car 1 14
+add-car 1 13
+add-station 183 0
+add-car 183 9
+add-car 183 8
+add-car 183 8
+add-car 183 9
+add-car 183 9
+add-car 183 9
+add-station 126 10 22 18 22 17 21 19 21 17 22 19
+add-station 106 9 27 23 23 21 23 28 27 22 21
+add-station 122 8 20 22 22 23 19 24 19 18
+add-station 390 7 6 4 5 4 5 6 6
+add-car 403 13
+add-car 372 17
+add-car 172 36
+add-car 223 37
+add-car 8 19
+add-car 406 2
+add-car 351 15
+add-car 282 21
+add-car 136 36
+add-car 404 2
+add-car 241 18
+add-car 389 17
+add-car 183 11
+add-car 258 17
+add-car 336 48
+add-car 288 48
+add-car 27 19
+add-car 186 37
+add-car 261 21
+add-car 390 13
+plan-route 31 359

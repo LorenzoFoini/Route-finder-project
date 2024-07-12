@@ -1,0 +1,10 @@
+add-station 91 9 5 4 5 5 4 6 5 4 5
+add-station 24 6 5 4 5 4 4 5
+plan-route 24 91
+add-station 92 6 5 4 4 5 5 5
+demolish-station 59
+add-station 52 9 13 14 13 17 17 15 18 15 16
+add-car 91 39
+add-car 52 39
+add-car 24 28
+plan-route 24 92
